@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.google-photos {
+    border: 1px solid #ddd;
+    font-family: "Poppins", sans-serif;
+    border-radius: 10px;
+    text-align: left;
+    width: 400px;
+    margin: auto;
+    font-weight: 500;
+}
+.google-photos img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.google-photos h3,p{
+    padding: 1px 20px;
+}
+.google-photos button {
+    background-color: white;
+    color: blue;
+    font-size: 17px;
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.material-symbols-outlined{
+    padding: 20px 0 0 20px;
+    color: grey;
+    vertical-align: middle;
+}
+.text{
+    color: grey;
+    vertical-align: bottom;
+    padding: 20px 0 0 0;
+   
+    
+}
+
